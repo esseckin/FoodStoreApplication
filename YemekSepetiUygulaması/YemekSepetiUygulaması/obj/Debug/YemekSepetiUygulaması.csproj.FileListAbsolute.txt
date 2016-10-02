@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\YemekSepetiUygulaması\YemekSepetiUygulaması\obj\Debug\YemekSepetiUygulaması.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\YemekSepetiUygulaması\YemekSepetiUygulaması\obj\Debug\YemekSepetiUygulaması.pdb
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.exe.config
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\obj\Debug\YemekSepetiUygulaması.exe
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\obj\Debug\YemekSepetiUygulaması.pdb
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.exe
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\bin\Debug\YemekSepetiUygulaması.pdb
+D:\alıstırmalar\projeler\YemekSepetiUygulaması\YemekSepetiUygulaması\obj\Debug\YemekSepetiUygulaması.csprojResolveAssemblyReference.cache
